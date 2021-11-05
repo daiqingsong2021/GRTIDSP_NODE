@@ -2,7 +2,7 @@ package com.grtidsp.node.mappers;
 
 import java.util.List;
 
-import com.grtidsp.node.model.PageRequest;
+import com.grtidsp.node.parent.model.PageRequest;
 import com.grtidsp.node.model.UserInfoDTO;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;

@@ -2,7 +2,7 @@ package com.grtidsp.node.dao;
 
 import java.util.List;
 
-import com.grtidsp.node.model.PageRequest;
+import com.grtidsp.node.parent.model.PageRequest;
 import com.grtidsp.node.model.UserInfoDTO;
 
 public interface LoginDao {

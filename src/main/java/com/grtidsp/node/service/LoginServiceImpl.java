@@ -3,7 +3,7 @@ package com.grtidsp.node.service;
 import java.util.List;
 
 import com.grtidsp.node.dao.LoginDao;
-import com.grtidsp.node.model.PageRequest;
+import com.grtidsp.node.parent.model.PageRequest;
 import com.grtidsp.node.model.UserInfoDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cache.annotation.CacheConfig;

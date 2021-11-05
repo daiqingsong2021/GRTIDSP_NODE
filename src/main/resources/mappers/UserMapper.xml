@@ -23,7 +23,7 @@
         SELECT * from t_user_info
     </select>
     <!--查询单个-->
-    <select id="findPage" resultMap="userInfoMap" parameterType="com.grtidsp.node.model.PageRequest">
+    <select id="findPage" resultMap="userInfoMap" parameterType="com.grtidsp.node.parent.model.PageRequest">
         SELECT * from t_user_info limit #{pr.pageNum},#{pr.pageSize}
     </select>
 </mapper>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../GRTIDSP_MANAGE/pom.xml" />
+        <option value="$PROJECT_DIR$/../ord_project_nantong/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../ord_project_nantong/acm-auth-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../ord_project_nantong/acm-cache/pom.xml" />
+        <option value="$PROJECT_DIR$/../ord_project_nantong/acm-common/pom.xml" />
+        <option value="$PROJECT_DIR$/../ord_project_nantong/acm-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/../ord_project_nantong/acm-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../ord_project_nantong/acm-leaf/pom.xml" />
+        <option value="$PROJECT_DIR$/../ord_project_nantong/acm-module-activiti/pom.xml" />
+        <option value="$PROJECT_DIR$/../ord_project_nantong/acm-module-base/pom.xml" />
+        <option value="$PROJECT_DIR$/../ord_project_nantong/acm-module-dc1/pom.xml" />
+        <option value="$PROJECT_DIR$/../ord_project_nantong/acm-module-dc2/pom.xml" />
+        <option value="$PROJECT_DIR$/../ord_project_nantong/acm-module-dc3/pom.xml" />
+        <option value="$PROJECT_DIR$/../ord_project_nantong/acm-module-dc4/pom.xml" />
+        <option value="$PROJECT_DIR$/../ord_project_nantong/acm-module-dc5/pom.xml" />
+        <option value="$PROJECT_DIR$/../ord_project_nantong/acm-module-hbase/pom.xml" />
+        <option value="$PROJECT_DIR$/../ord_project_nantong/acm-module-hrb-sys/pom.xml" />
+        <option value="$PROJECT_DIR$/../ord_project_nantong/acm-module-processing/pom.xml" />
+        <option value="$PROJECT_DIR$/../ord_project_nantong/acm-module-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/../ord_project_nantong/acm-module-sys/pom.xml" />
+        <option value="$PROJECT_DIR$/../ord_project_nantong/acm-module-szxm/pom.xml" />
+        <option value="$PROJECT_DIR$/../ord_project_nantong/acm-module-wf/pom.xml" />
+        <option value="$PROJECT_DIR$/../ord_project_nantong/pom.xml" />
+        <option value="$PROJECT_DIR$/../ord_project_nantong/wsd-bootadmin/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

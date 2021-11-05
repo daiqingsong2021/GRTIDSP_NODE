@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b7367bf-ae64-4577-8e47-57f0fdcafd79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../GRTIDSP_MANAGE/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GRTIDSP_MANAGE/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GRTIDSP_MANAGE/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GRTIDSP_MANAGE/grtids-gateway/src/main/java/com/grtids/gateway/GatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GRTIDSP_MANAGE/grtids-gateway/src/main/java/com/grtids/gateway/common/HealthExamination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GRTIDSP_MANAGE/grtids-gateway/src/main/java/com/grtids/gateway/common/IpAddrKeyResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GRTIDSP_MANAGE/grtids-gateway/src/main/java/com/grtids/gateway/common/UriKeyResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GRTIDSP_MANAGE/grtids-gateway/src/main/java/com/grtids/gateway/config/MainConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GRTIDSP_MANAGE/grtids-gateway/src/main/java/com/grtids/gateway/config/RedisConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GRTIDSP_MANAGE/grtids-gateway/src/main/java/com/grtids/gateway/controller/FallBackController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GRTIDSP_MANAGE/grtids-gateway/src/main/java/com/grtids/gateway/entity/GrtidspErrorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GRTIDSP_MANAGE/grtids-gateway/src/main/java/com/grtids/gateway/entity/GrtidspResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GRTIDSP_MANAGE/grtids-gateway/src/main/java/com/grtids/gateway/entity/RedisTokenUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GRTIDSP_MANAGE/grtids-gateway/src/main/java/com/grtids/gateway/filter/TokenFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GRTIDSP_MANAGE/grtids-gateway/src/main/java/com/grtids/gateway/util/JsonUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GRTIDSP_MANAGE/grtids-gateway/src/main/java/com/grtids/gateway/util/RedisUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GRTIDSP_MANAGE/grtids-gateway/src/main/resources/application-local.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GRTIDSP_MANAGE/grtids-gateway/src/main/resources/application-master.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GRTIDSP_MANAGE/grtids-gateway/src/main/resources/application-test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GRTIDSP_MANAGE/grtids-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GRTIDSP_MANAGE/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GRTIDSP_MANAGE/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GRTIDSP_MANAGE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GRTIDSP_MANAGE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GRTIDSP_MANAGE/GRTIDSP_MANAGE.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GRTIDSP_MANAGE/grtids-gateway/grtids-gateway.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GRTIDSP_MANAGE/grtids-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GRTIDSP_MANAGE/grtids-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GRTIDSP_MANAGE/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GRTIDSP_MANAGE/pom.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../GRTIDSP_MANAGE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="20M4C0DK1bY1RXVDJepOb6UuVwx" />
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ord_project_nantong" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideaworkspace\GRTIDSP_NODE\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.grtidsp.node.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaworkspace\GRTIDSP_NODE\src\main\java\com\grtidsp\node\constants" />
+      <recent name="D:\ideaworkspace\GRTIDSP_NODE\src\main\java\com\grtidsp\node\facade" />
+      <recent name="D:\ideaworkspace\GRTIDSP_NODE\src\main\java\com\grtidsp\node\common" />
+      <recent name="D:\ideaworkspace\GRTIDSP_NODE\src\main\java\com\grtidsp\node" />
+      <recent name="D:\ideaworkspace\GRTIDSP_NODE\src\main\java\com\grtidsp\node\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GatewayApplication">
+    <configuration name="ACMBaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="acm-module-base" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wisdom.acm.base.ACMBaseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ACMSysApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="acm-module-sys" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wisdom.acm.sys.ACMSysApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ACMSzxmApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="acm-module-szxm" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wisdom.acm.szxm.ACMSzxmApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ACMWfApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="acm-module-wf" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wisdom.acm.wf.ACMWfApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AcmModuleDc1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="acm-module-dc1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wisdom.acm.dc1.AcmModuleDc1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AcmModuleDc2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="acm-module-dc2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wisdom.acm.dc2.AcmModuleDc2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AcmModuleDc3Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="acm-module-dc3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wisdom.acm.dc3.AcmModuleDc3Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AcmModuleDc4Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="acm-module-dc4" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wisdom.acm.dc4.AcmModuleDc4Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AcmModuleDc5Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="acm-module-dc5" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wisdom.acm.dc5.AcmModuleDc5Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AcmModuleHrbSysApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="acm-module-hrb-sys" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wisdom.acm.hrb.sys.AcmModuleHrbSysApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AcmModuleProcessingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="acm-module-processing" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wisdom.acm.processing.AcmModuleProcessingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="acm-module-sso" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sso.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="acm-auth-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wisdom.auth.server.AuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="wsd-bootadmin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wisdom.monitor.BootAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="acm-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wisdom.center.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="acm-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wisdom.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="grtids-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.grtids.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HBaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="acm-module-hbase" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wisdom.acm.hbase.HBaseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeafApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="acm-leaf" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wisdom.acm.leaf.LeafApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="GRTIDSP_NODE" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.grtidsp.node.NodeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.AcmModuleDc2Application" />
+      <item itemvalue="Spring Boot.AcmModuleDc1Application" />
+      <item itemvalue="Spring Boot.BootAdminApplication" />
+      <item itemvalue="Spring Boot.ACMWfApplication" />
+      <item itemvalue="Spring Boot.AcmModuleDc3Application" />
+      <item itemvalue="Spring Boot.AcmModuleDc4Application" />
+      <item itemvalue="Spring Boot.AcmModuleHrbSysApplication" />
+      <item itemvalue="Spring Boot.HBaseApplication" />
+      <item itemvalue="Spring Boot.AcmModuleDc5Application" />
+      <item itemvalue="Spring Boot.AcmModuleProcessingApplication" />
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication (1)" />
+      <item itemvalue="Spring Boot.ACMSysApplication" />
+      <item itemvalue="Spring Boot.ACMSzxmApplication" />
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Spring Boot.ACMBaseApplication" />
+      <item itemvalue="Spring Boot.AuthApplication" />
+      <item itemvalue="Spring Boot.LeafApplication" />
+      <item itemvalue="Spring Boot.NodeApplication" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.20405494" />
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b7367bf-ae64-4577-8e47-57f0fdcafd79" name="Default Changelist" comment="" />
+      <created>1635840990470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635840990470</updated>
+      <workItem from="1635840996135" duration="1948000" />
+      <workItem from="1635901435420" duration="931000" />
+      <workItem from="1635902392440" duration="244000" />
+      <workItem from="1635902655142" duration="732000" />
+      <workItem from="1635903410269" duration="672000" />
+      <workItem from="1635904152887" duration="664000" />
+      <workItem from="1635904842386" duration="1484000" />
+      <workItem from="1635906361512" duration="22190000" />
+      <workItem from="1635994815178" duration="1956000" />
+      <workItem from="1635996968522" duration="4394000" />
+      <workItem from="1636006362969" duration="5926000" />
+      <workItem from="1636013346894" duration="1532000" />
+      <workItem from="1636014925084" duration="2887000" />
+      <workItem from="1636072770609" duration="620000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/grtidsp/node/service/LoginServiceImpl.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
